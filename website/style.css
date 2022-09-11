@@ -27,7 +27,7 @@ a:hover, a:active {
 }
 
 header {
-    background-color: rgba(214, 73, 73, .6);
+    background-color: #805ac3;
     height: 80px;
     position: absolute;
     top: 0;
@@ -74,7 +74,7 @@ header li {
 }
 
 .banner h1 {
-    color: rgb(214, 73, 73);
+    color: #805ac3;
 }
 
 .banner p, .about p {
